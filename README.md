@@ -17,6 +17,10 @@ This is a minimal adaptation of LeWorldModel to online setting in the Atari envi
 git clone lewm-atari
 cd lewm-atari
 pip install requirments.txt
+```
+
+### run
+```
 cd scripts
 python lewm_atari.py
 ```
